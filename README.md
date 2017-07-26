@@ -1,7 +1,8 @@
 # The Decentralized Internet Manifesto
-Version: 1.0
+Version: 1.1
 
-Date: 2017-06-24
+Last Revision: 2017-06-25
+Originally Authored: 2017-06-24
 
 ## Overview
 In 1996, John Perry Barlow penned his now famous "[A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)". Since then, we've seen privacy violations which have been attributed to instigating human rights violations. Even the UN recognizes the "[Right to Privacy in the Digital Age](http://www.un.org/press/en/2013/gashc4094.doc.htm)". This document describes one possible solution to this problem, namely the basic tenets to decentralize the internet in a manner consistent with the common good and good security practice.
@@ -11,6 +12,7 @@ In 1996, John Perry Barlow penned his now famous "[A Declaration of the Independ
  * Objects MUST be autonomous so they can be acted upon individually
  * Objects, including network transports, MUST be encrypted by default
  * Objects MUST be private by default
+ * Services MUST be opt-in
 
 Examples of objects include, but are not limited to:
 
@@ -41,7 +43,7 @@ User Stories to consider:
 
 ### 3. Integrity
  * Objects MUST be immutable to guarantee integrity
- * Objects MUST contain, and check for, a strong hash to demonstrate integrity.
+ * Objects MUST contain, and check for, a strong hash to demonstrate integrity
 
 
 ### 4. Common Good
