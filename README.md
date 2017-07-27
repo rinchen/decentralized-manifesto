@@ -1,5 +1,5 @@
 # The Decentralized Internet Manifesto
-Version: 1.1
+Version: 1.2
 
 Last Revision: 2017-06-25
 
@@ -10,7 +10,7 @@ In 1996, John Perry Barlow penned his now famous "[A Declaration of the Independ
 
 ## Tenets
 ### 1. Confidentiality and Privacy must always be maintained
- * Objects MUST be autonomous so they can be acted upon individually
+ * Objects MUST be autonomous so they can be acted upon individually ([high cohesion and low coupling](https://en.wikipedia.org/wiki/GRASP_%28object-oriented_design%29))
  * Objects, including network transports, MUST be encrypted by default
  * Objects MUST be private by default
  * Services MUST be opt-in
