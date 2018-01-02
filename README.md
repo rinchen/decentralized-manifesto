@@ -1,7 +1,7 @@
 # The Decentralized Internet Manifesto
-Version: 1.2
+Version: 1.3
 
-Last Revision: 2017-06-25
+Last Revision: 2018-01-01
 
 Originally Authored: 2017-06-24
 
@@ -19,7 +19,7 @@ Examples of objects include, but are not limited to:
 
 * peers and connection information
 * transport conduits
-* posts - the content and the poster
+* posts -- the content and the poster
 * people and personal details
 * identity information including user information, IP address, and any personally identifiable information
 * financial information
@@ -35,8 +35,8 @@ User Stories to consider:
 ### 2. Availability
  * Objects MUST be decentralized in nature, or support decentralization of an object store
  * Objects MUST be designed for high latency environments
- * Objects MUST capable of operating in near real-time
- * Non-network objects MAY be blockable by end users but network conduits MUST NOT be blockable so as to ensure availability
+ * Objects MUST be capable of operating in near real-time
+ * Non-network objects MAY be blockable by end users but network conduits MUST NOT be blockable to ensure availability
 
 User Stories to consider:
 
@@ -61,13 +61,13 @@ User Stories to consider:
 
 
 ## Compliance
-If you develop a system, network, application, or component which respects the above tenets you are encourage to declare your compliance with this document.
+If you develop a system, network, application, or component which respects the above tenets you are encouraged to declare your compliance with this document.
 
 ## Contributing
 Contributions to this document are welcomed. Together, we can build something usable worthwhile. See the CONTRIBUTING document in this repository.
 
 ### Contributors
- 1. [Joey Stanford](https://github.com/rinchen) - Initial Author
+ 1. [Joey Stanford](https://github.com/rinchen) -- Initial Author
 
 ## License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/>.
